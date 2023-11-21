@@ -58,7 +58,16 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
-## Output:
+## Output:![WhatsApp Image 2023-11-21 at 11 41 45_4f14350a](https://github.com/Ranjania2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151624950/92b568d8-dc3c-49e5-8f9c-5809f68fa09c)
+
+![WhatsApp Image 2023-11-21 at 11 41 44_e773a712](https://github.com/Ranjania2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151624950/cca0187a-80fc-4f51-9c3a-cdfb50c205b3)
+![WhatsApp Image 2023-11-21 at 11 41 43_97ac09aa](https://github.com/Ranjania2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151624950/6a50c19b-b954-4fd0-9826-5a16cd400702)
+![WhatsApp Image 2023-11-21 at 11 41 43_6cbb9cd7](https://github.com/Ranjania2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151624950/3eab2a82-35e6-44f2-839d-05ec9ed2aa49)
+![WhatsApp Image 2023-11-21 at 11 41 42_259b7f4d](https://github.com/Ranjania2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151624950/f0a736f6-ba9c-457d-b1e4-6f3b464d2c37)
+
+![WhatsApp Image 2023-11-21 at 11 41 40_b12e5c7a](https://github.com/Ranjania2005/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151624950/367ff87b-f7e2-4617-bba4-b45618d6eb94)
+
+
 
 ### Name: 
 ### Register Number:
